@@ -318,3 +318,4 @@ BEGIN
 DROP PROC dbo.sp_sessions
 END
 GO
+
