@@ -14,7 +14,7 @@
 **					"Free software" means software that respects users' freedom and community. 
 **						Roughly, the users have the freedom to run, copy, distribute, study, change and improve the software. With these freedoms, the users
 **						(both individually and collectively) control the program and what it does for them.
-**					—The Free Software Foundation
+**					â€”The Free Software Foundation
 **
 **		*****MUST CHANGE*****
 **
@@ -7319,3 +7319,4 @@ ELSE BEGIN
 	DROP TABLE #TEMP;'
 END
 GO
+
